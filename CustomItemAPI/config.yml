@@ -1,0 +1,474 @@
+---
+items:
+  pickaxeeruption:
+    type: tool
+    name: pickaxeeruption
+    id: 1000
+    meta: 0
+    mining_efficiency: 10
+    max_durability: 500
+    tool_group: pickaxe # pickaxe | shovel | sword | axe | hoe
+    texture_path: pickaxeeruption
+    attack_points: 5 # required for sword
+    tier: diamond # diamond | gold | iron | stone | wood
+  pickaxeflame:
+    type: tool
+    name: pickaxeflame
+    id: 1001
+    meta: 0
+    mining_efficiency: 10
+    max_durability: 500
+    tool_group: pickaxe # pickaxe | shovel | sword | axe | hoe
+    texture_path: pickaxeflame
+    attack_points: 5 # required for sword
+    tier: diamond # diamond | gold | iron | stone | wood
+  pickaxelava:
+    type: tool
+    name: pickaxelava
+    id: 1002
+    meta: 0
+    mining_efficiency: 10
+    max_durability: 500
+    tool_group: pickaxe # pickaxe | shovel | sword | axe | hoe
+    texture_path: pickaxelava
+    attack_points: 5 # required for sword
+    tier: diamond # diamond | gold | iron | stone | wood
+ pickaxeboulder:
+    type: tool
+    name: pickaxeboulder
+    id: 1003
+    meta: 0
+    mining_efficiency: 10
+    max_durability: 500
+    tool_group: pickaxe # pickaxe | shovel | sword | axe | hoe
+    texture_path: pickaxeboulder
+    attack_points: 5 # required for sword
+    tier: diamond # diamond | gold | iron | stone | wood
+  pickaxedragon:
+    type: tool
+    name: pickaxedragon
+    id: 1004
+    meta: 0
+    mining_efficiency: 10
+    max_durability: 500
+    tool_group: pickaxe # pickaxe | shovel | sword | axe | hoe
+    texture_path: pickaxedragon
+    attack_points: 5 # required for sword
+    tier: diamond # diamond | gold | iron | stone | wood
+  pickaxejackpot:
+    type: tool
+    name: pickaxejackpot
+    id: 1005
+    meta: 0
+    mining_efficiency: 10
+    max_durability: 500
+    tool_group: pickaxe # pickaxe | shovel | sword | axe | hoe
+    texture_path: pickaxejackpot
+    attack_points: 5 # required for sword
+    tier: diamond # diamond | gold | iron | stone | wood
+  pickaxedolphin:
+    type: tool
+    name: pickaxedolphin
+    id: 1006
+    meta: 0
+    mining_efficiency: 10
+    max_durability: 500
+    tool_group: pickaxe # pickaxe | shovel | sword | axe | hoe
+    texture_path: pickaxedolphin
+    attack_points: 5 # required for sword
+    tier: diamond # diamond | gold | iron | stone | wood
+  redstone_pickaxe:
+    type: tool
+    name: redstone_pickaxe
+    id: 1007
+    meta: 0
+    mining_efficiency: 10
+    max_durability: 500
+    tool_group: pickaxe # pickaxe | shovel | sword | axe | hoe
+    texture_path: redstone_pickaxe
+    attack_points: 5 # required for sword
+    tier: diamond # diamond | gold | iron | stone | wood
+  blood_rune:
+    type: basic # basic | food | armor | tool
+    name: blood_rune
+    id: 1008
+    meta: 0
+    max_stack_size: 1
+    texture_path: blood_rune # texture present in the 'items/' folder
+  redstone_rune:
+    type: basic # basic | food | armor | tool
+    name: redstone_rune
+    id: 1009
+    meta: 0
+    max_stack_size: 1
+    texture_path: redstone_rune # texture present in the 'items/' folder
+  clouds_rune:
+    type: basic # basic | food | armor | tool
+    name: clouds_rune
+    id: 1010
+    meta: 0
+    max_stack_size: 1
+    texture_path: clouds_rune # texture present in the 'items/' folder
+  fire_spiral_rune:
+    type: basic # basic | food | armor | tool
+    name: fire_spiral_rune
+    id: 1011
+    meta: 0
+    max_stack_size: 1
+    texture_path: fire_spiral_rune # texture present in the 'items/' folder
+  gem_rune:
+    type: basic # basic | food | armor | tool
+    name: gem_rune
+    id: 1012
+    meta: 0
+    max_stack_size: 1
+    texture_path: gem_rune # texture present in the 'items/' folder
+  golden_rune:
+    type: basic # basic | food | armor | tool
+    name: golden_rune
+    id: 1013
+    meta: 0
+    max_stack_size: 1
+    texture_path: golden_rune # texture present in the 'items/' folder
+  hearts_rune:
+    type: basic # basic | food | armor | tool
+    name: hearts_rune
+    id: 1014
+    meta: 0
+    max_stack_size: 1
+    texture_path: hearts_rune # texture present in the 'items/' folder
+  hot_rune:
+    type: basic # basic | food | armor | tool
+    name: hot_rune
+    id: 1015
+    meta: 0
+    max_stack_size: 1
+    texture_path: hot_rune # texture present in the 'items/' folder
+  ice_rune:
+    type: basic # basic | food | armor | tool
+    name: ice_rune
+    id: 1016
+    meta: 0
+    max_stack_size: 1
+    texture_path: ice_rune # texture present in the 'items/' folder
+  lava_rune:
+    type: basic # basic | food | armor | tool
+    name: lava_rune
+    id: 1017
+    meta: 0
+    max_stack_size: 1
+    texture_path: lava_rune # texture present in the 'items/' folder
+  lightning_rune:
+    type: basic # basic | food | armor | tool
+    name: lightning_rune
+    id: 1018
+    meta: 0
+    max_stack_size: 1
+    texture_path: lightning_rune # texture present in the 'items/' folder
+  magical_rune:
+    type: basic # basic | food | armor | tool
+    name: magical_rune
+    id: 1019
+    meta: 0
+    max_stack_size: 1
+    texture_path: magical_rune # texture present in the 'items/' folder
+  music_rune:
+    type: basic # basic | food | armor | tool
+    name: music_rune
+    id: 1020
+    meta: 0
+    max_stack_size: 1
+    texture_path: music_rune # texture present in the 'items/' folder
+  rainbow_rune:
+    type: basic # basic | food | armor | tool
+    name: rainbow_rune
+    id: 1021
+    meta: 0
+    max_stack_size: 1
+    texture_path: rainbow_rune # texture present in the 'items/' folder
+  smokey_rune:
+    type: basic # basic | food | armor | tool
+    name: smokey_rune
+    id: 1022
+    meta: 0
+    max_stack_size: 1
+    texture_path: smokey_rune # texture present in the 'items/' folder
+  snow_rune:
+    type: basic # basic | food | armor | tool
+    name: snow_rune
+    id: 1023
+    meta: 0
+    max_stack_size: 1
+    texture_path: snow_rune # texture present in the 'items/' folder
+  sparkling_rune:
+    type: basic # basic | food | armor | tool
+    name: sparkling_rune
+    id: 1024
+    meta: 0
+    max_stack_size: 1
+    texture_path: sparkling_rune # texture present in the 'items/' folder
+  wake_rune:
+    type: basic # basic | food | armor | tool
+    name: wake_rune
+    id: 1025
+    meta: 0
+    max_stack_size: 1
+    texture_path: wake_rune # texture present in the 'items/' folder
+  white_spiral_rune:
+    type: basic # basic | food | armor | tool
+    name: white_spiral_rune
+    id: 1026
+    meta: 0
+    max_stack_size: 1
+    texture_path: white_spiral_rune # texture present in the 'items/' folder
+  zap_rune:
+    type: basic # basic | food | armor | tool
+    name: zap_rune
+    id: 1027
+    meta: 0
+    max_stack_size: 1
+    texture_path: zap_rune # texture present in the 'items/' folder
+  blueprint:
+    type: basic # basic | food | armor | tool
+    name: blueprint
+    id: 1028
+    meta: 0
+    max_stack_size: 1
+    texture_path: blueprint # texture present in the 'items/' folder
+  campfire_scion_badge:
+    type: basic # basic | food | armor | tool
+    name: campfire_scion_badge
+    id: 1029
+    meta: 0
+    max_stack_size: 1
+    texture_path: campfire_scion_badge # texture present in the 'items/' folder
+  fairy_feather:
+    type: basic # basic | food | armor | tool
+    name: fairy_feather
+    id: 1030
+    meta: 0
+    max_stack_size: 1
+    texture_path: fairy_feather # texture present in the 'items/' folder
+  golden_feather:
+    type: basic # basic | food | armor | tool
+    name: golden_feather
+    id: 1031
+    meta: 0
+    max_stack_size: 1
+    texture_path: golden_feather # texture present in the 'items/' folder
+  hyper_catalyst:
+    type: basic # basic | food | armor | tool
+    name: hyper_catalyst
+    id: 1032
+    meta: 0
+    max_stack_size: 1
+    texture_path: hyper_catalyst # texture present in the 'items/' folder
+  seal_of_the_oceans:
+    type: basic # basic | food | armor | tool
+    name: seal_of_the_oceans
+    id: 1033
+    meta: 0
+    max_stack_size: 1
+    texture_path: seal_of_the_oceans # texture present in the 'items/' folder
+  seal_of_the_seas:
+    type: basic # basic | food | armor | tool
+    name: seal_of_the_seas
+    id: 1034
+    meta: 0
+    max_stack_size: 1
+    texture_path: seal_of_the_seas # texture present in the 'items/' folder
+  passport:
+    type: basic # basic | food | armor | tool
+    name: passport
+    id: 1035
+    meta: 0
+    max_stack_size: 1
+    texture_path: passport # texture present in the 'items/' folder
+  tactician_sword:
+    type: tool
+    name: tactician_sword
+    id: 1037
+    meta: 0
+    mining_efficiency: 10
+    max_durability: 500
+    tool_group: sword # pickaxe | shovel | sword | axe | hoe
+    texture_path: tactician_sword
+    attack_points: 100 # required for sword
+    tier: diamond # diamond | gold | iron | stone | wood
+  aspect_of_the_end:
+    type: tool
+    name: aspect_of_the_end
+    id: 1038
+    meta: 0
+    mining_efficiency: 10
+    max_durability: 500
+    tool_group: sword # pickaxe | shovel | sword | axe | hoe
+    texture_path: aspect_of_the_end
+    attack_points: 100 # required for sword
+    tier: diamond # diamond | gold | iron | stone | wood
+  elucidator:
+    type: tool
+    name: elucidator
+    id: 1039
+    meta: 0
+    mining_efficiency: 10
+    max_durability: 500
+    tool_group: sword # pickaxe | shovel | sword | axe | hoe
+    texture_path: elucidator
+    attack_points: 100 # required for sword
+    tier: diamond # diamond | gold | iron | stone | wood
+  frozen_scythe:
+    type: tool
+    name: frozen_scythe
+    id: 1040
+    meta: 0
+    mining_efficiency: 10
+    max_durability: 500
+    tool_group: axe # pickaxe | shovel | sword | axe | hoe
+    texture_path: frozen_scythe
+    attack_points: 100 # required for sword
+    tier: diamond # diamond | gold | iron | stone | wood
+  golem_sword:
+    type: tool
+    name: golem_sword
+    id: 1041
+    meta: 0
+    mining_efficiency: 10
+    max_durability: 500
+    tool_group: sword # pickaxe | shovel | sword | axe | hoe
+    texture_path: golem_sword
+    attack_points: 100 # required for sword
+    tier: diamond # diamond | gold | iron | stone | wood
+  leaping_sword:
+    type: tool
+    name: leaping_sword
+    id: 1042
+    meta: 0
+    mining_efficiency: 10
+    max_durability: 500
+    tool_group: sword # pickaxe | shovel | sword | axe | hoe
+    texture_path: leaping_sword
+    attack_points: 100 # required for sword
+    tier: diamond # diamond | gold | iron | stone | wood
+  midas_sword:
+    type: tool
+    name: midas_sword
+    id: 1043
+    meta: 0
+    mining_efficiency: 10
+    max_durability: 500
+    tool_group: sword # pickaxe | shovel | sword | axe | hoe
+    texture_path: midas_sword
+    attack_points: 100 # required for sword
+    tier: diamond # diamond | gold | iron | stone | wood
+  pooch_sword:
+    type: tool
+    name: pooch_sword
+    id: 1044
+    meta: 0
+    mining_efficiency: 10
+    max_durability: 500
+    tool_group: sword # pickaxe | shovel | sword | axe | hoe
+    texture_path: pooch_sword
+    attack_points: 100 # required for sword
+    tier: diamond # diamond | gold | iron | stone | wood
+  promising_axe:
+    type: tool
+    name: promising_axe
+    id: 1045
+    meta: 0
+    mining_efficiency: 10
+    max_durability: 500
+    tool_group: axe # pickaxe | shovel | sword | axe | hoe
+    texture_path: promising_axe
+    attack_points: 100 # required for sword
+    tier: diamond # diamond | gold | iron | stone | wood
+  raider_axe:
+    type: tool
+    name: raider_axe
+    id: 1046
+    meta: 0
+    mining_efficiency: 10
+    max_durability: 500
+    tool_group: axe # pickaxe | shovel | sword | axe | hoe
+    texture_path: raider_axe
+    attack_points: 100 # required for sword
+    tier: diamond # diamond | gold | iron | stone | wood
+  rogue_sword:
+    type: tool
+    name: rogue_sword
+    id: 1047
+    meta: 0
+    mining_efficiency: 10
+    max_durability: 500
+    tool_group: sword # pickaxe | shovel | sword | axe | hoe
+    texture_path: rogue_sword
+    attack_points: 100 # required for sword
+    tier: diamond # diamond | gold | iron | stone | wood
+  shaman_sword:
+    type: tool
+    name: shaman_sword
+    id: 1048
+    meta: 0
+    mining_efficiency: 10
+    max_durability: 500
+    tool_group: sword # pickaxe | shovel | sword | axe | hoe
+    texture_path: shaman_sword
+    attack_points: 100 # required for sword
+    tier: diamond # diamond | gold | iron | stone | wood
+  silver_fang:
+    type: tool
+    name: silver_fang
+    id: 1049
+    meta: 0
+    mining_efficiency: 10
+    max_durability: 500
+    tool_group: sword # pickaxe | shovel | sword | axe | hoe
+    texture_path: silver_fang
+    attack_points: 100 # required for sword
+    tier: diamond # diamond | gold | iron | stone | wood
+  spirit_sword:
+    type: tool
+    name: spirit_sword
+    id: 1050
+    meta: 0
+    mining_efficiency: 10
+    max_durability: 500
+    tool_group: sword # pickaxe | shovel | sword | axe | hoe
+    texture_path: spirit_sword
+    attack_points: 100 # required for sword
+    tier: diamond # diamond | gold | iron | stone | wood
+  thick_tactician_sword:
+    type: tool
+    name: thick_tactician_sword
+    id: 1051
+    meta: 0
+    mining_efficiency: 10
+    max_durability: 500
+    tool_group: sword # pickaxe | shovel | sword | axe | hoe
+    texture_path: thick_tactician_sword
+    attack_points: 100 # required for sword
+    tier: diamond # diamond | gold | iron | stone | wood
+  yeti_sword:
+    type: tool
+    name: yeti_sword
+    id: 1052
+    meta: 0
+    mining_efficiency: 10
+    max_durability: 500
+    tool_group: sword # pickaxe | shovel | sword | axe | hoe
+    texture_path: yeti_sword
+    attack_points: 100 # required for sword
+    tier: diamond # diamond | gold | iron | stone | wood
+  zombie_sword:
+    type: tool
+    name: zombie_sword
+    id: 1053
+    meta: 0
+    mining_efficiency: 10
+    max_durability: 500
+    tool_group: sword # pickaxe | shovel | sword | axe | hoe
+    texture_path: zombie_sword
+    attack_points: 100 # required for sword
+    tier: diamond # diamond | gold | iron | stone | wood
+...
