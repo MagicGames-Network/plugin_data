@@ -33,7 +33,7 @@ items:
     texture_path: pickaxelava
     attack_points: 5 # required for sword
     tier: diamond # diamond | gold | iron | stone | wood
- pickaxeboulder:
+  pickaxeboulder:
     type: tool
     name: pickaxeboulder
     id: 1003
